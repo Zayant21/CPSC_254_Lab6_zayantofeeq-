@@ -1,7 +1,6 @@
-# CPSC_254_Lab6_zayantofeeq-
-Zayan Tofeeq 
-Lab 6 GIT - CPSC 254
-CWID: 893582221
+## Zayan Tofeeq 
+## CWID: 893582221
+### Lab 6 GIT - CPSC 254
 
-Project:
+#### Project:
 	A python file that display the name given in the input.
